@@ -2,8 +2,6 @@
 
 Everything you need to know to contribute efficiently to the project.
 
-Whatever the way you wish to contribute to the project, please respect the [code of conduct](CODE_OF_CONDUCT.md).
-
 ## Project structure and conventions
 
 ### Codebase structure
